@@ -1,5 +1,5 @@
-## Style-React-Components
+# Style-React-Components
 
-# Description
+## Description
 
 This is a React based project for education purposes.
